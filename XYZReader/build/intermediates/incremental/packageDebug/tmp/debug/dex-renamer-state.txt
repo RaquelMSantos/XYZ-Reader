@@ -1,0 +1,4 @@
+#Mon Oct 22 11:21:10 BRT 2018
+base.0=/Users/mac-mini-serttel/Desktop/XYZ-Reader/XYZReader/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

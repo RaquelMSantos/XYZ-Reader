@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Oct 18 18:53:58 BRT 2018
+1.base=/Users/mac-mini-serttel/Desktop/XYZ-Reader/XYZReader/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+0.base=/Users/mac-mini-serttel/Desktop/XYZ-Reader/XYZReader/build/intermediates/assets/debug
+1.path=classes.dex
